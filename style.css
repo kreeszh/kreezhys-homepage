@@ -1,5 +1,5 @@
 
-body {
+body,div {
     font-size 10pt;
     font-family: Avenir Next, Arial, Helvetica;
     color: black;
@@ -10,4 +10,4 @@ body {
     font-size: 14pt; 
     font-family: Avenir Next, Arial, Helvetica;
     color: red;   
-    }
+  }
