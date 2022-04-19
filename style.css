@@ -8,18 +8,15 @@ body,div {
  
   h1 {
     font-size: 14pt; 
-    font-family: Avenir Next, Arial, Helvetica;
-    color: red;   
+    font-family: Avenir Next, Arial, Helvetica;  
   }
   
   h2 {
     font-size: 12pt; 
     font-family: Avenir Next, Arial, Helvetica;
-    color: red;   
   }
 
   h3 {
     font-size: 11pt; 
-    font-family: Avenir Next, Arial, Helvetica;
-    color: red;   
+    font-family: Avenir Next, Arial, Helvetica; 
   }
