@@ -1,6 +1,6 @@
 html {
   font-size: 21px;
-  font-family: "Didact Gothic", sans-serif;
+  font-family: Avenir Next, Arial, Helvetica, sans-serif;
   color: #888;
   background: #0b0d0b;
 }
@@ -28,7 +28,7 @@ h1 img {
 }
 
 a {
-  color: #b8ff5b;
+  color: #e77577;
   opacity: 0.7;
   transition: opacity ease 200ms;
   text-decoration: none;
